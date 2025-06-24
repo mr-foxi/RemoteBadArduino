@@ -1,0 +1,7 @@
+{
+  "name": "serials",
+  "version": "1.0.0",
+  "description": "Serial communications",
+  "authors": ["Fox"],
+  "keywords": ["serial", "communication"]
+}

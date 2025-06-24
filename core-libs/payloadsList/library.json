@@ -1,0 +1,7 @@
+{
+  "name": "payloadsList",
+  "version": "1.0.0",
+  "description": "Shared payload commands and info",
+  "authors": ["Fox"],
+  "keywords": ["payloads"]
+}

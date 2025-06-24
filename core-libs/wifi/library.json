@@ -1,0 +1,7 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "Common Wi-Fi handling functions",
+  "authors": ["Fox"],
+  "keywords": ["wifi", "network"]
+}
